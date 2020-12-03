@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/geobl/CLionProjects/HW4OpenMP/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+optional
+-
+omp.h
+-
+
